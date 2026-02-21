@@ -1,4 +1,4 @@
-# Rabattkoder.no - Discount Code Marketplace
+.# Rabattkoder.no - Discount Code Marketplace
 
 A full-stack Next.js application for verified discount codes with dual-mode operation (prototype and live).
 
